@@ -5,10 +5,10 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 ***A collection of fun games I have built.***
 
-- [DukeChess](https://github.com/zjbthomas/DukeChess): a digital adaptation of the chess-inspired board game "The Duke".
+- [DukeChess](https://github.com/zjbthomas/DukeChess) [[demo](https://dexaint.itch.io/dukechess)]: a digital adaptation of the chess-inspired board game "The Duke".
     - **Highlighted features**: AI opponent, cross-platform multiplayer support (desktop & web).
     - **Tech stack**: Godot (desktop); React & JavaScript (front-end); Java, Node.js & WebSocket/socket.io (back-end).
-- [MemoryDungeon](https://github.com/zjbthomas/MemoryDungeon): an enhanced version of the traditional memory game, with a roguelike gameplay experience.
+- [MemoryDungeon](https://github.com/zjbthomas/MemoryDungeon) [[demo](http://memorydungeon.junbinzhang.com)]: an enhanced version of the traditional memory game, with a roguelike gameplay experience.
     - **Highlighted features**: AI opponent, heroes with unique abilities, and gacha mechanics.
     - **Tech stack**: Godot & Qt in C++ (desktop).
 - [LinkWord](https://github.com/zjbthomas/LinkWord): a minimal Chinese word-chain game.
