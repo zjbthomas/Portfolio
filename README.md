@@ -1,15 +1,15 @@
 # Portfolio
-Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮 games, 🛠️ scripts, and 🔬 research projects I have developed.
+Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮**games**, 🛠️**scripts**, and 🔬**research projects** I have developed.
 
 ## 🎮 Toy Arcade (Games)
 
 ***A collection of fun games I have built.***
 
-| Game | Description | Highlighted Features | Tech Stack |
-| ------------------------------------------------------------- | - | - | - |
-| ♟️**DukeChess** [demo](https://dexaint.itch.io/dukechess)    | Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/socket.io |
-| 👾**MemoryDungeon** [demo](http://memorydungeon.junbinzhang.com) | Roguelike twist on the memory game with roguelike gameplay experience | - AI opponent<br>- heroes with unique abilities<br>- gacha mechanics | Desktop: Godot & Qt (C++)                                              |
-| 🔤**LinkWord** | Lightweight Chinese word-chain game |  | Python |
+| <div style="width:200px">Game</div> | Demo | Description | Highlighted Features | Tech Stack |
+| - | - | - | - | - |
+| ♟️**DukeChess**     | [Play](https://dexaint.itch.io/dukechess)    | Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/socket.io |
+| 👾**MemoryDungeon** | [Play](http://memorydungeon.junbinzhang.com) | Roguelike twist on the memory game with roguelike gameplay experience | - AI opponent<br>- heroes with unique abilities<br>- gacha mechanics | Desktop: Godot & Qt (C++)                                              |
+| 🔤**LinkWord** |  | Lightweight Chinese word-chain game |  | Python |
 
 ## 🛠️ Toy Workshop (Scripts)
 
