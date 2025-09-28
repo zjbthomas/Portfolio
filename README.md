@@ -32,7 +32,6 @@ Some userscripts for [Tampermonkey](https://www.tampermonkey.net/), built using 
     - Language information is retrieved using a **Python** script [here](https://github.com/zjbthomas/SteamOnlineChecker/blob/main/steam_language.py) as a workflow in **Github Actions**. 
     - A Google Chrome extension version is also available [here](https://github.com/zjbthomas/LanguageInfo).
 - [Userscript](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC) to automatically book road tests on Insurance Corporation of British Columbia (ICBC) website.
-- [Userscript](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights/yituliu-store.user.js) to annotate redeemed events' in-game resources for a popular third-party support website for the Arknights mobile game.
 
 Some tiny scripts based on **Python**:
 - [SteamOnlineChecker](https://github.com/zjbthomas/SteamOnlineChecker): a tool using **Github Actions** to automatically monitor the status of a Steam user and send updates as Telegram messages.
