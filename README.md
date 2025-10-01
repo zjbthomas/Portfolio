@@ -7,47 +7,56 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 | Game | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - |
-| [DukeChess](https://github.com/zjbthomas/DukeChess) | [Play](https://dexaint.itch.io/dukechess)    | ♟️Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/socket.io |
-| [MemoryDungeon](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- heroes with unique abilities<br>- gacha mechanics | Desktop: Godot & Qt (C++)                                              |
-| [LinkWord](https://github.com/zjbthomas/LinkWord) |  | 🔤Lightweight Chinese word-chain game |  | Python |
+| [**DukeChess**](https://github.com/zjbthomas/DukeChess) | [Play](https://dexaint.itch.io/dukechess)    | ♟️Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/socket.io |
+| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- heroes with unique abilities<br>- gacha mechanics | Desktop: Godot & Qt (C++)                                              |
+| [**LinkWord**](https://github.com/zjbthomas/LinkWord) |  | 🔤Lightweight Chinese word-chain game |  | Python |
 
 ## 🛠️ Toy Workshop (Scripts)
 
 ***Handy scripts I have crafted to make life easier.***
 
 ### 🐵 Tampermonkey Userscripts (JavaScript) 
-- [Steam Wishlist Language Highlighter](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage): highlights games in a user's Steam wishlist that lack support for specific languages.
+- [**Steam Wishlist Language Highlighter**](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage): highlights games in a user's Steam wishlist that lack support for specific languages.
     - Language information is retrieved using a **Python** script [here](https://github.com/zjbthomas/SteamOnlineChecker/blob/main/steam_language.py) as a **GitHub Actions** workflow. 
     - A Google Chrome extension version is also available [here](https://github.com/zjbthomas/LanguageInfo).
-- [Arknights YiTuLiu Store Optimizer](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights): annotates and 🏆**prioritises** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
-- [ICBC Road Test Helper](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC): simplifies the process of booking road tests on Insurance Corporation of British Columbia (ICBC) website.
+- [**Arknights YiTuLiu Store Optimizer**](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights): annotates and 🏆**prioritizes** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
+- [**ICBC Road Test Helper**](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC): simplifies the process of booking road tests on Insurance Corporation of British Columbia (ICBC) website.
 
 ### 🐍 Python Scripts 
-- [Steam Online Status Checker](https://github.com/zjbthomas/SteamOnlineChecker): a tool using **GitHub Actions** to automatically monitor the status of a Steam user and send updates via Telegram messages.
-- [PRTS Scraper](https://github.com/zjbthomas/PRTS-Scraper): a lightweight script to scrape Arknights skill icons using MediaWiki APIs. These icons can later be used to train AI image generators to create new ones.
+- [**Steam Online Status Checker**](https://github.com/zjbthomas/SteamOnlineChecker): a tool using **GitHub Actions** to automatically monitor the status of a Steam user and send updates via Telegram messages.
+- [**PRTS Scraper**](https://github.com/zjbthomas/PRTS-Scraper): a lightweight script to scrape Arknights skill icons using MediaWiki APIs. These icons can later be used to train AI image generators to create new ones.
 
 ### 💻 Code Contributions
-- [web-clipper](https://github.com/zjbthomas/web-clipper): I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote and Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
+- [**web-clipper**](https://github.com/zjbthomas/web-clipper): I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
+
+## 🌐 Website Creations
+
+***Websites I have built or contributed to.***
+
+- [**University of British Columbia, Digital Multimedia Lab**](https://dml.ece.ubc.ca/): I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework. I customized the framework to meet specific lab requirements:
+    - Publications are categorized into finer-grined types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
+    - By adding new metadata to page elements, lab members can easily redirect to their own departmental web pages.
+    - Embedded a website statistics feature by modifying the universal footer.
 
 ## 🔬 Research Corner
 
 ***A selection of my most meaningful research projects.***
 
 ### 📱 Mobile Security
-- [UBCBench](https://github.com/LinaQiu/UBCBench) [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a set of benchmarks for analyzing Android static taint analysis tools.
+- [**UBCBench**](https://github.com/LinaQiu/UBCBench) [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a set of benchmarks for analyzing Android static taint analysis tools.
     - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
 
 ### 🤖 Image Forensics
-- [Shallow- & Deep-fake images localization](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that effectively localizes modified regions in both shallow- and deep-fake images.
+- [**Shallow- & Deep-fake images localization**](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that effectively localizes modified regions in both shallow- and deep-fake images.
 
 #### *Frenquency-domain Approaches*
-- [Frequency-based AI-generated images detection](https://github.com/zjbthomas/FreqAIDetector) [[paper](https://ieeexplore.ieee.org/abstract/document/10221905)]: a deep learning model that detects images generated by Stable Diffusion models using frequency-domain artifacts (>99% accuracy, 🏰 Disney images were used as a case study).
-- [Frequency-based AI-generated images attributor](https://github.com/zjbthomas/FreqGANAttribution) [[paper](https://ieeexplore.ieee.org/abstract/document/10855423)]: a frequency-based network that attributes fake images to their source GAN architecture (>95% accuracy).
+- [**Frequency-based AI-generated images detection**](https://github.com/zjbthomas/FreqAIDetector) [[paper](https://ieeexplore.ieee.org/abstract/document/10221905)]: a deep learning model that detects images generated by Stable Diffusion models using frequency-domain artifacts (>99% accuracy, 🏰 Disney images were used as a case study).
+- [**Frequency-based AI-generated images attributor**](https://github.com/zjbthomas/FreqGANAttribution) [[paper](https://ieeexplore.ieee.org/abstract/document/10855423)]: a frequency-based network that attributes fake images to their source GAN architecture (>95% accuracy).
 
 #### *Sensor-level Approaches*
 
-- [AI-generated images detection using raw images only](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a Variational Autoencoder (VAE)-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
-- [AI-generated images detection by reconstructing raw images](https://github.com/zjbthomas/BayerRecDetetor) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)]: a method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy). Notably, this method requires no deep learning.
+- [**AI-generated images detection using raw images only**](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a Variational Autoencoder (VAE)-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
+- [**AI-generated images detection by reconstructing raw images**](https://github.com/zjbthomas/BayerRecDetetor) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)]: a method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy). Notably, this method requires no deep learning.
 
 ### 🖼️ Image Generation
-- [TMO GAN](https://github.com/zjbthomas/TMO-GAN) [[paper](https://ieeexplore.ieee.org/abstract/document/10074176)]: a Generative Adversarial Network (GAN) designed to produce high-quality 4K High Dynamic Range (HDR) images, significantly improving perceptual quality.
+- [**TMO GAN**](https://github.com/zjbthomas/TMO-GAN) [[paper](https://ieeexplore.ieee.org/abstract/document/10074176)]: a Generative Adversarial Network (GAN) designed to produce high-quality 4K High Dynamic Range (HDR) images, significantly improving perceptual quality.
