@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮**games**, 🛠️**scripts**, and 🔬**research projects** I have developed.
+Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮**games**, 🛠️**scripts**, 🔬**research projects**, and 🌐**websites** I have developed.
 
 ## 🎮 Toy Arcade (Games)
 
@@ -7,8 +7,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 | Game | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - |
-| [**DukeChess**](https://github.com/zjbthomas/DukeChess) | [Play](https://dexaint.itch.io/dukechess)    | ♟️Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/socket.io |
-| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- heroes with unique abilities<br>- gacha mechanics | Desktop: Godot & Qt (C++)                                              |
+| [**DukeChess**](https://github.com/zjbthomas/DukeChess) | [Play](https://dexaint.itch.io/dukechess)    | ♟️Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/Socket.IO |
+| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Desktop: Godot & Qt (C++)                                              |
 | [**LinkWord**](https://github.com/zjbthomas/LinkWord) |  | 🔤Lightweight Chinese word-chain game |  | Python |
 
 ## 🛠️ Toy Workshop (Scripts)
@@ -28,15 +28,6 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 ### 💻 Code Contributions
 - [**web-clipper**](https://github.com/zjbthomas/web-clipper): I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
-
-## 🌐 Website Creations
-
-***Websites I have built or contributed to.***
-
-- [**University of British Columbia, Digital Multimedia Lab**](https://dml.ece.ubc.ca/): I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework. I customized the framework to meet specific lab requirements:
-    - Publications are categorized into finer-grined types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
-    - By adding new metadata to page elements, lab members can easily redirect to their own departmental web pages.
-    - Embedded a website statistics feature by modifying the universal footer.
 
 ## 🔬 Research Corner
 
@@ -60,3 +51,15 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 ### 🖼️ Image Generation
 - [**TMO GAN**](https://github.com/zjbthomas/TMO-GAN) [[paper](https://ieeexplore.ieee.org/abstract/document/10074176)]: a Generative Adversarial Network (GAN) designed to produce high-quality 4K High Dynamic Range (HDR) images, significantly improving perceptual quality.
+
+## 🌐 Website Creations
+
+***Websites I have built or contributed to.***
+
+- [**University of British Columbia, Digital Multimedia Lab**](https://dml.ece.ubc.ca/): I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework. I customized the framework to meet specific lab requirements:
+    - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
+    - By adding new metadata to page elements, lab members can easily redirect to their own departmental web pages.
+    - Embedded a website statistics feature by modifying the universal footer.
+- [**BC Liquor Store Explorer**](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas) [[demo](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)]: a course project web app that allows users explore BC Liquor products with filters such as price, type, and country.
+    - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
+    - **Tech Stack**: R, Shiny
