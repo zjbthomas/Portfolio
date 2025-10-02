@@ -46,7 +46,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 #### *Sensor-level Approaches*
 
-- [**AI-generated images detection using raw images only**](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a Variational Autoencoder (VAE)-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
+- [**AI-generated images detection trained with raw images only**](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a Variational Autoencoder (VAE)-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
 - [**AI-generated images detection by reconstructing raw images**](https://github.com/zjbthomas/BayerRecDetetor) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)]: a method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy). Notably, this method requires no deep learning.
 
 ### 🖼️ Image Generation
