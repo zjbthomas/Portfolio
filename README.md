@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮**games**, 🛠️**scripts**, 🔬**research projects**, and 🌐**websites** I have developed.
+Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮[**games**](#-toy-arcade-games), 🛠️[**scripts**](#%EF%B8%8F-toy-workshop-scripts), 🔬[**research projects**](#-research-corner), and 🌐[**websites**](#-website-creations) I have developed.
 
 ## 🎮 Toy Arcade (Games)
 
