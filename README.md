@@ -33,11 +33,6 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 ***A selection of my most meaningful research projects.***
 
-### 📱 Mobile Security
-- [**UBCBench**](https://github.com/LinaQiu/UBCBench) [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a set of benchmarks for analyzing Android static taint analysis tools.
-    - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
-- [**Android password leakage detection**](https://github.com/zjbthomas/EECE512) [[report](https://github.com/zjbthomas/EECE512/blob/master/report.pdf)]: a course project that detects potential password leakage in Android applications using the *FlowDroid* framework, a static analysis tool.
-
 ### 🤖 Image Forensics
 - [**Shallow- & Deep-fake images localization**](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that effectively localizes modified regions in both shallow- and deep-fake images.
 
@@ -50,6 +45,12 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - [**AI-generated images detection trained with raw images only**](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a Variational Autoencoder (VAE)-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
 - [**AI-generated images detection by reconstructing raw images**](https://github.com/zjbthomas/BayerRecDetetor) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)]: a method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy). Notably, this method requires no deep learning.
 
+### 📱 Mobile Security
+- [**UBCBench**](https://github.com/LinaQiu/UBCBench) [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a set of benchmarks for analyzing Android static taint analysis tools.
+    - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
+- [**Android OAuth vulnerability analysis**](https://github.com/zjbthomas/OAuthUsage) [[report](https://github.com/zjbthomas/OAuthUsage/blob/main/report.pdf)]: a course project that investigates security risks in Android applications using the OAuth protocol.
+- [**Android password leakage detection**](https://github.com/zjbthomas/EECE512) [[report](https://github.com/zjbthomas/EECE512/blob/master/report.pdf)]: a course project that detects potential password leakage in Android applications using the *FlowDroid* framework, a static analysis tool.
+
 ### 🖼️ Image Generation
 - [**TMO GAN**](https://github.com/zjbthomas/TMO-GAN) [[paper](https://ieeexplore.ieee.org/abstract/document/10074176)]: a Generative Adversarial Network (GAN) designed to produce high-quality 4K High Dynamic Range (HDR) images, significantly improving perceptual quality.
 
@@ -60,7 +61,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - [**University of British Columbia, Digital Multimedia Lab**](https://dml.ece.ubc.ca/): I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework. I customized the framework to meet specific lab requirements:
     - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
     - By adding new metadata to page elements, lab members can easily redirect to their own departmental web pages.
-    - Embedded a website statistics feature by modifying the universal footer.
-- [**BC Liquor Store Explorer**](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas) [[demo](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)]: a course project web app that allows users explore BC Liquor products with filters such as price, type, and country.
+    - Embedded website statistics by modifying the universal footer.
+- [**BC Liquor Store Explorer**](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas) [[demo](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)]: a course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
