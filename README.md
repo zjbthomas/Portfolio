@@ -36,6 +36,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ### 📱 Mobile Security
 - [**UBCBench**](https://github.com/LinaQiu/UBCBench) [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a set of benchmarks for analyzing Android static taint analysis tools.
     - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
+- [**Android password leakage detection**](https://github.com/zjbthomas/EECE512) [[report](https://github.com/zjbthomas/EECE512/blob/master/report.pdf)]: a course project that detects potential password leakage in Android applications using the *FlowDroid* framework, a static analysis tool.
 
 ### 🤖 Image Forensics
 - [**Shallow- & Deep-fake images localization**](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that effectively localizes modified regions in both shallow- and deep-fake images.
