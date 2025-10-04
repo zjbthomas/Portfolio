@@ -8,7 +8,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 | Game | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - |
 | [**DukeChess**](https://github.com/zjbthomas/DukeChess) | [Play](https://dexaint.itch.io/dukechess)    | ♟️Digital adaptation of the chess-inspired board game "The Duke" | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket/Socket.IO & Redis |
-| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Desktop: Godot & Qt (C++)                                              |
+| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [Play](http://memorydungeon.junbinzhang.com) | 👾Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | - Front-end (desktop): Godot & Qt (C++)<br>- Back-end: Node.js & Redis |
 | [**LinkWord**](https://github.com/zjbthomas/LinkWord) |  | 🔤Lightweight Chinese word-chain game |  | Python |
 
 ## 🛠️ Toy Workshop (Scripts)
