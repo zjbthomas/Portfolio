@@ -34,6 +34,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ***A selection of my most meaningful research projects.***
 
 ### 🤖 Image Forensics
+
+#### *Dual-domain Approaches*
 - [**Shallow- & Deep-fake images localization**](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that effectively localizes modified regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
     - A journal extension using **Vision Mamba** and **Graph Neural Network** is currently under review.
