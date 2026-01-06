@@ -77,6 +77,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
     - By adding new metadata to page elements, lab members can redirect to their own departmental web pages.
     - Embedded website statistics by modifying the universal footer.
+- [**Personal website**](https://people.ece.ubc.ca/~zjbthomas/): my personal website built with **HTML** and **jQuery**. *Refresh the page to see dynamically changing background colors!*
 - [**BC Liquor Store Explorer**](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas) [[demo](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)]: a course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
