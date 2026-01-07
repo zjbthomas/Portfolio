@@ -67,6 +67,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - **Comparison of Android Static Taint Analyzers**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/LinaQiu/UBCBench)  
+    ![Android](https://img.shields.io/badge/Android-8fa3b8?style=flat&logo=android&logoColor=444)  
     A comparative study of **Android** **static taint analysis** tools (*FlowDroid*, *Amandroid*, and *DroidSafe*), evaluating their effectiveness and limitations using standardized benchmarks.
     - We built [**UBCBench**](https://github.com/LinaQiu/UBCBench), a benchmark suite for evaluating Android static taint analysis tools.
     - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
@@ -97,6 +98,20 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     A novel subjective evaluation methodology for assessing the perceptual quality of foveated rendering in HMDs.
     - Developed an interactive voting mechanism using controllers in **Unity** to collect subjective user ratings.
     - Captured **eye-tracking** data via **OpenVR** and **OpenGL** and integrated it into the evaluation pipeline.
+
+### 🎞️ Video Compression
+- **Visual-Attention-Model-based HDR Video Compression**  
+    ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)  
+    ![HEVC](https://img.shields.io/badge/HEVC-8aa399?style=flat)  
+    A visual-attention-driven approach for HDR video compression that incorporates saliency importance and human visual characteristics to improve the efficiency of the High Efficiency Video Coding (HEVC) standard.  
+    The method enhances HEVC performance on HDR content by adapting the Quantization Parameter (QP) calculation based on perceptual relevance.
+
+### 🎯 Serious Games
+- **BankPet**  
+    [![report](https://img.shields.io/badge/report-8b1a1a?style=flat)](https://courses.ece.ubc.ca/518/previous/hit2017W/papers/WuRangZhang.pdf)  
+    ![Android](https://img.shields.io/badge/Android-8fa3b8?style=flat&logo=android&logoColor=444)
+    ![Arduino](https://img.shields.io/badge/Arduino-8aa399?style=flat&logo=arduino&logoColor=444)  
+    A serious game–based banking application featuring a virtual character designed to help users develop better credit card and personal money management habits, validated through a user study.
 
 ## 🛠️ Toy Workshop (Scripts)
 
