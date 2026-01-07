@@ -183,7 +183,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ## 🧭 In the End: Why This Portfolio?
 
 This repository serves two purposes:
-- It presents a curated overview of my work, making my projects easier to understand and explore for readers beyond individual repositories.
+- It presents an organized overview of my work, making my projects easier to understand and explore for readers beyond individual repositories.
 - It also functions as a centralized index of my GitHub projects for long-term organization and reference.
 
-As projects naturally grow across multiple repositories and organizations, maintaining a structured, developer-maintained overview becomes increasingly valuable. This portfolio reflects a broader need for **improved repository organization and discoverability**, especially as personal GitHub collections evolve over time.
+As projects naturally grow across multiple repositories and organizations, GitHub currently offers limited support for presenting them as a coherent body of work. This portfolio serves as a developer-maintained overview that improves **organization and discoverability**, addressing a gap in how evolving personal GitHub project collections are presented.
