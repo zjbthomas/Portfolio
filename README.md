@@ -8,11 +8,11 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 ***A collection of fun games I have built.***
 
-| Game | Demo | Description | Highlighted Features | Tech Stack |
-| - | - | - | - | - |
-| [**DukeChess**](https://github.com/zjbthomas/DukeChess) | [![Play](https://img.shields.io/badge/Play-green?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | - Desktop: Godot <br>- Front-end: React & JavaScript<br>- Back-end: Java, Node.js & WebSocket / Socket.IO & Redis |
-| [**MemoryDungeon**](https://github.com/zjbthomas/MemoryDungeon) | [![Play](https://img.shields.io/badge/Play-green?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | - Front-end (desktop): Godot & Qt (C++)<br>- Back-end: Node.js & Redis |
-| [**LinkWord**](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | Python |
+| Game | Code | Demo | Description | Highlighted Features | Tech Stack |
+| - | - | - | - | - | - |
+| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/WebSocket-Socket.IO-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-C++-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **LinkWord** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776ab) |
 
 > ℹ️ If any of the demo links above do not work, please **[create an issue](../../issues)** so I can take a look.
 
@@ -22,16 +22,22 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ)
 
-🎓 My theses:
-- Ph.D.: [Detection, Attribution, and Localization of Manipulated Images](https://dx.doi.org/10.14288/1.0450146).
-- M.A.Sc.: [Analyzing Android Taint Analysis Tools: FlowDroid, Amandroid, and DroidSafe](https://dx.doi.org/10.14288/1.0392613).
+[![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)
+
+[![MASc](https://img.shields.io/badge/MASc%20Thesis-Analyzing%20Android%20Taint%20Analysis%20Tools:%20FlowDroid,%20Amandroid,%20and%20DroidSafe-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0392613)
 
 ### 🤖 Image Forensics
 
 #### *Pixel-frequency Hybrid Approaches*
-- **Shallow- & deep-fake images localization** [![paper](https://img.shields.io/badge/paper-red?style=flat)](https://ieeexplore.ieee.org/document/10074246) [![code](https://img.shields.io/badge/code-black?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization): a deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
+- **Shallow- & Deep-fake Images Localization**
+
+    [![paper](https://img.shields.io/badge/conference%20paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/document/10074246)
+    [![arXiv](https://img.shields.io/badge/arXiv-2601.02566-b31b1b.svg)](https://arxiv.org/abs/2601.02566)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization)
+    
+    A deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
-    - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [![arXiv](https://img.shields.io/badge/arXiv-2601.02566-b31b1b.svg)](https://arxiv.org/abs/2601.02566)
+    - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [arXiv](https://arxiv.org/abs/2601.02566).
 
 #### *Frequency-domain Approaches*
 - [**Frequency-based AI-generated images detection**](https://github.com/zjbthomas/FreqAIDetector) [[paper](https://ieeexplore.ieee.org/abstract/document/10221905)]: a deep learning model that detects images generated by Stable Diffusion models using frequency-domain artifacts (>99% accuracy, 🏰 Disney images were used as a case study).
