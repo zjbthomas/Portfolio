@@ -29,7 +29,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ### 🤖 Image Forensics
 
 #### *Pixel-frequency Hybrid Approaches*
-- [**Shallow- & deep-fake images localization**](https://github.com/zjbthomas/ShallowDeepFakesLocalization) [[paper](https://ieeexplore.ieee.org/document/10074246)]: a deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
+- **Shallow- & deep-fake images localization** [![paper](https://img.shields.io/badge/paper-red?style=flat)](https://ieeexplore.ieee.org/document/10074246) [![code](https://img.shields.io/badge/code-black?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization): a deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
     - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [![arXiv](https://img.shields.io/badge/arXiv-2601.02566-b31b1b.svg)](https://arxiv.org/abs/2601.02566)
 
