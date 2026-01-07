@@ -135,10 +135,12 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
     - By adding new metadata to page elements, lab members can redirect to their own departmental web pages.
     - Embedded website statistics by modifying the universal footer.
+
 - **Personal Website**  
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://people.ece.ubc.ca/~zjbthomas/)  
     My personal website built with **HTML** and **jQuery**.  
     *Refresh the page to see dynamically changing background colors!*
+
 - **BC Liquor Store Explorer**  
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas)  
