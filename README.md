@@ -22,19 +22,16 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ)
 
-[![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)
-
+[![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)  
 [![MASc](https://img.shields.io/badge/MASc%20Thesis-Analyzing%20Android%20Taint%20Analysis%20Tools:%20FlowDroid,%20Amandroid,%20and%20DroidSafe-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0392613)
 
 ### 🤖 Image Forensics
 
 #### *Pixel-frequency Hybrid Approaches*
-- **Shallow- & Deep-fake Images Localization**
-
+- **Shallow- & Deep-fake Images Localization**  
     [![paper](https://img.shields.io/badge/conference%20paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/document/10074246)
     [![arXiv](https://img.shields.io/badge/arXiv-2601.02566-b31b1b.svg)](https://arxiv.org/abs/2601.02566)
-    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization)
-    
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization)  
     A deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
     - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [arXiv](https://arxiv.org/abs/2601.02566).
