@@ -127,13 +127,15 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 - **PRTS Scraper**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/PRTS-Scraper)  
-    A lightweight script to scrape Arknights skill icons using MediaWiki APIs. These icons can later be used to train AI image generators to create new ones.
+    A lightweight script to scrape Arknights skill icons using MediaWiki APIs.  
+    These icons can later be used to train AI image generators to create new ones.
 
 ### 💻 Code Contributions
 - **web-clipper**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/web-clipper)  
     ![Google Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-8fa3b8?style=flat&logo=googlechrome&logoColor=444)  
-    I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
+    I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups.  
+    **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
 
 ## 🌐 Website Creations
 
