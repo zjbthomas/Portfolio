@@ -10,8 +10,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 | Game | Code | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - | - |
-| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/WebSocket-Socket.IO-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
-| **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-C++-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/Socket.IO-(WebSocket)-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-(C++)-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
 | **LinkWord** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776ab) |
 
 > ℹ️ If any of the demo links above do not work, please **[create an issue](../../issues)** so I can take a look.
@@ -29,10 +29,12 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 #### *Pixel-frequency Hybrid Approaches*
 - **Shallow- & Deep-fake Images Localization**  
-    [![paper](https://img.shields.io/badge/conference%20paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/document/10074246)
+    [![paper](https://img.shields.io/badge/paper%20(conference)-8b1a1a?style=flat)](https://ieeexplore.ieee.org/document/10074246)
     [![arXiv](https://img.shields.io/badge/arXiv-2601.02566-b31b1b.svg)](https://arxiv.org/abs/2601.02566)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization)  
-    <img src="https://img.shields.io/badge/UperNet-9aa5b1?style=flat" />  
+    ![UperNet](https://img.shields.io/badge/UperNet-9aa5b1?style=flat)
+    ![Vision Mamba](https://img.shields.io/badge/Vision%20Mamba-9aa5b1?style=flat)
+    ![GNN](https://img.shields.io/badge/GNN-9aa5b1?style=flat)  
     A deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
     - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [arXiv](https://arxiv.org/abs/2601.02566).
@@ -53,9 +55,9 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - **AI-generated Images Detection Trained with Raw Images Only**  
     ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRealOnlyDetector)  
-    A **Variational Autoencoder (VAE)**-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
+    A **Variational Autoencoder (VAE)**-based approach trained solely on real/raw images for detecting AI-generated content (~94% accuracy).
 
-- **AI-generated images detection by reconstructing raw images**  
+- **AI-generated Images Detection by Reconstructing Raw Images**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRecDetetor)  
     A method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy).  
@@ -83,14 +85,18 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - **TMO GAN**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/abstract/document/10074176)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/TMO-GAN)  
+    ![GAN](https://img.shields.io/badge/GAN-9aa5b1?style=flat)  
     A **GAN** designed to tone map high-quality 4K **High Dynamic Range (HDR)** images, significantly enhancing perceptual quality.
 
 ### 🥽 Virtual Reality
 - **Subjective Evaluation of Foveated Image Quality in Head-mounted Displays (HMDs)**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.14152)  
+    ![Unity](https://img.shields.io/badge/Unity-9b8bc1?style=flat&logo=unity&logoColor=444)
+    ![OpenVR](https://img.shields.io/badge/OpenVR-9b8bc1?style=flat)
+    ![OpenGL](https://img.shields.io/badge/OpenGL-9b8bc1?style=flat&logo=opengl&logoColor=444)  
     A novel subjective evaluation methodology for assessing the perceptual quality of foveated rendering in HMDs.
     - Developed an interactive voting mechanism using controllers in **Unity** to collect subjective user ratings.
-    - Captured **eye-tracking** data using **OpenVR** and **OpenGL** and integrated it into the evaluation process.
+    - Captured **eye-tracking** data via **OpenVR** and **OpenGL** and integrated it into the evaluation pipeline.
 
 ## 🛠️ Toy Workshop (Scripts)
 
@@ -99,21 +105,24 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ### 🐵 Tampermonkey Userscripts (JavaScript) 
 - **Steam Wishlist Language Highlighter**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage)  
-    Highlight games in a user's Steam wishlist that lack support for specific languages.
+    ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8aa399?style=flat&logo=githubactions&logoColor=444)
+    ![Google Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-8fa3b8?style=flat&logo=googlechrome&logoColor=444)  
+    Highlights games in a user's Steam wishlist that lack support for specific languages.
     - Language information is retrieved using a **Python** script [here](https://github.com/zjbthomas/SteamOnlineChecker/blob/main/steam_language.py) as a **GitHub Actions** workflow. 
     - A Google Chrome extension version is also available [here](https://github.com/zjbthomas/LanguageInfo).
 
 - **Arknights YiTuLiu Store Optimizer**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights)  
-    Annotate and 🏆**prioritize** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
+    Annotates and 🏆**prioritizes** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
 
 - **ICBC Road Test Helper**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC)  
-    Simplify the process of booking road tests on the Insurance Corporation of British Columbia (ICBC) website.
+    Simplifies the process of booking road tests on the Insurance Corporation of British Columbia (ICBC) website.
 
 ### 🐍 Python Scripts 
 - **Steam Online Status Checker**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/SteamOnlineChecker)  
+    ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8aa399?style=flat&logo=githubactions&logoColor=444)  
     A tool using **GitHub Actions** to automatically monitor the status of a Steam user and send updates via Telegram messages.
 
 - **PRTS Scraper**  
@@ -123,6 +132,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ### 💻 Code Contributions
 - **web-clipper**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/web-clipper)  
+    ![Google Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-8fa3b8?style=flat&logo=googlechrome&logoColor=444)  
     I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
 
 ## 🌐 Website Creations
@@ -131,6 +141,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 - **University of British Columbia, Digital Multimedia Lab**  
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://dml.ece.ubc.ca/)  
+    ![Hugo Blox](https://img.shields.io/badge/Hugo%20Blox-8fa3b8?style=flat)  
     I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework.  
     I customized the framework to meet specific lab requirements:
     - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
@@ -139,12 +150,14 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 - **Personal Website**  
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://people.ece.ubc.ca/~zjbthomas/)  
+    ![jQuery](https://img.shields.io/badge/jQuery-8fa3b8?style=flat&logo=jquery&logoColor=444)  
     My personal website built with **HTML** and **jQuery**.  
     *Refresh the page to see dynamically changing background colors!*
 
 - **BC Liquor Store Explorer**  
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas)  
+    ![Shiny](https://img.shields.io/badge/Shiny-8aa399?style=flat)  
     A course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
