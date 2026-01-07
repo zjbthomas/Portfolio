@@ -111,13 +111,13 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     [![report](https://img.shields.io/badge/report-8b1a1a?style=flat)](https://courses.ece.ubc.ca/518/previous/hit2017W/papers/WuRangZhang.pdf)  
     ![Android](https://img.shields.io/badge/Android-8fa3b8?style=flat&logo=android&logoColor=444)
     ![Arduino](https://img.shields.io/badge/Arduino-8aa399?style=flat&logo=arduino&logoColor=444)  
-    A serious game–based banking application featuring a virtual character designed to help users develop better credit card and personal money management habits, validated through a user study.
+    A serious game–based banking application featuring a virtual character 🐱 designed to help users develop better credit card and personal money management habits, validated through a user study.
 
 ## 🛠️ Toy Workshop (Scripts)
 
 ***Handy scripts I have crafted to make life easier.***
 
-### 🐵 Tampermonkey Userscripts (JavaScript) 
+### 🐵 Tampermonkey Userscripts (*JavaScript*) 
 - **Steam Wishlist Language Highlighter**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage)  
     ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8aa399?style=flat&logo=githubactions&logoColor=444)
@@ -134,7 +134,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC)  
     Simplifies the process of booking road tests on the Insurance Corporation of British Columbia (ICBC) website.
 
-### 🐍 Python Scripts 
+### 🐍 *Python* Scripts 
 - **Steam Online Status Checker**  
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/SteamOnlineChecker)  
     ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8aa399?style=flat&logo=githubactions&logoColor=444)  
