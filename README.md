@@ -49,22 +49,45 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     A frequency-based network that attributes fake images to their source Generative Adversarial Network (GAN) architecture (>95% accuracy).
 
 #### *Sensor-level Approaches*
+- **AI-generated Images Detection Trained with Raw Images Only**  
+    ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRealOnlyDetector)  
+    A **Variational Autoencoder (VAE)**-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
 
-- [**AI-generated images detection trained with raw images only**](https://github.com/zjbthomas/BayerRealOnlyDetector) [paper available soon]: a **Variational Autoencoder (VAE)**-based model for detecting AI-generated images trained using only real/raw images (~94% accuracy).
-- [**AI-generated images detection by reconstructing raw images**](https://github.com/zjbthomas/BayerRecDetetor) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)]: a method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy). Notably, this method requires no deep learning.
+- **AI-generated images detection by reconstructing raw images**  
+    [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRecDetetor)  
+    A method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy).  
+    Notably, this method requires no deep learning.
 
 ### 📱 Mobile Security
-- **Comparison of Android static taint analyzers** [[paper](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)]: a comparative study of **Android** **static taint analysis** tools (*FlowDroid*, *Amandroid*, and *DroidSafe*), evaluating their effectiveness and limitations using standardized benchmarks.
+- **Comparison of Android Static Taint Analyzers**  
+    [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/LinaQiu/UBCBench)  
+    A comparative study of **Android** **static taint analysis** tools (*FlowDroid*, *Amandroid*, and *DroidSafe*), evaluating their effectiveness and limitations using standardized benchmarks.
     - We built [**UBCBench**](https://github.com/LinaQiu/UBCBench), a benchmark suite for evaluating Android static taint analysis tools.
     - Bug fixes and improvements were merged by their original authors (details [here](https://resess.github.io/artifacts/StaticTaint/ubcbench/#fixed-bugs)).
-- [**Android OAuth vulnerability analysis**](https://github.com/zjbthomas/OAuthUsage) [[report](https://github.com/zjbthomas/OAuthUsage/blob/main/report.pdf)]: a course project that investigates security risks in Android applications using the **OAuth** protocol.
-- [**Android password leakage detection**](https://github.com/zjbthomas/EECE512) [[report](https://github.com/zjbthomas/EECE512/blob/master/report.pdf)]: a course project that detects potential password leakage in Android applications using the *FlowDroid* framework, a static analysis tool.
+
+- **Android OAuth Vulnerability Analysis**  
+    [![report](https://img.shields.io/badge/report-8b1a1a?style=flat)](https://github.com/zjbthomas/OAuthUsage/blob/main/report.pdf)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/OAuthUsage)  
+    A course project that investigates security risks in Android applications using the **OAuth** protocol.
+
+- **Android Password Leakage Detection**  
+    [![report](https://img.shields.io/badge/report-8b1a1a?style=flat)](https://github.com/zjbthomas/EECE512/blob/master/report.pdf)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/EECE512)  
+    A course project that detects potential password leakage in Android applications using the *FlowDroid* framework, an Android static analysis tool.
 
 ### 🖼️ Image Generation
-- [**TMO GAN**](https://github.com/zjbthomas/TMO-GAN) [[paper](https://ieeexplore.ieee.org/abstract/document/10074176)]: a **GAN** designed to tone map high-quality 4K **High Dynamic Range (HDR)** images, significantly enhancing perceptual quality.
+- **TMO GAN**  
+    [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/abstract/document/10074176)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/TMO-GAN)  
+    A **GAN** designed to tone map high-quality 4K **High Dynamic Range (HDR)** images, significantly enhancing perceptual quality.
 
 ### 🥽 Virtual Reality
-- **Subjective evaluation of foveated image quality in head-mounted displays (HMDs)** [[paper](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.14152)]: a novel subjective evaluation methodology for assessing the perceptual quality of foveated rendering in HMDs.
+- **Subjective Evaluation of Foveated Image Quality in Head-mounted Displays (HMDs)**  
+    [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.14152)  
+    A novel subjective evaluation methodology for assessing the perceptual quality of foveated rendering in HMDs.
     - Developed an interactive voting mechanism using controllers in **Unity** to collect subjective user ratings.
     - Captured **eye-tracking** data using **OpenVR** and **OpenGL** and integrated it into the evaluation process.
 
@@ -73,29 +96,53 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ***Handy scripts I have crafted to make life easier.***
 
 ### 🐵 Tampermonkey Userscripts (JavaScript) 
-- [**Steam Wishlist Language Highlighter**](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage): highlights games in a user's Steam wishlist that lack support for specific languages.
+- **Steam Wishlist Language Highlighter**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/SteamLanguage)  
+    Highlight games in a user's Steam wishlist that lack support for specific languages.
     - Language information is retrieved using a **Python** script [here](https://github.com/zjbthomas/SteamOnlineChecker/blob/main/steam_language.py) as a **GitHub Actions** workflow. 
     - A Google Chrome extension version is also available [here](https://github.com/zjbthomas/LanguageInfo).
-- [**Arknights YiTuLiu Store Optimizer**](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights): annotates and 🏆**prioritizes** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
-- [**ICBC Road Test Helper**](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC): simplifies the process of booking road tests on the Insurance Corporation of British Columbia (ICBC) website.
+
+- **Arknights YiTuLiu Store Optimizer**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/blob/main/Arknights)  
+    Annotate and 🏆**prioritize** redeemed event resources on a popular third-party Arknights support site, helping players decide what to redeem first.
+
+- **ICBC Road Test Helper**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Tampermonkey/tree/main/ICBC)  
+    Simplify the process of booking road tests on the Insurance Corporation of British Columbia (ICBC) website.
 
 ### 🐍 Python Scripts 
-- [**Steam Online Status Checker**](https://github.com/zjbthomas/SteamOnlineChecker): a tool using **GitHub Actions** to automatically monitor the status of a Steam user and send updates via Telegram messages.
-- [**PRTS Scraper**](https://github.com/zjbthomas/PRTS-Scraper): a lightweight script to scrape Arknights skill icons using MediaWiki APIs. These icons can later be used to train AI image generators to create new ones.
+- **Steam Online Status Checker**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/SteamOnlineChecker)  
+    A tool using **GitHub Actions** to automatically monitor the status of a Steam user and send updates via Telegram messages.
+
+- **PRTS Scraper**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/PRTS-Scraper)  
+    A lightweight script to scrape Arknights skill icons using MediaWiki APIs. These icons can later be used to train AI image generators to create new ones.
 
 ### 💻 Code Contributions
-- [**web-clipper**](https://github.com/zjbthomas/web-clipper): I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
+- **web-clipper**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/web-clipper)  
+    I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups. **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
 
 ## 🌐 Website Creations
 
 ***Websites I have built or contributed to.***
 
-- [**University of British Columbia, Digital Multimedia Lab**](https://dml.ece.ubc.ca/): I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework. I customized the framework to meet specific lab requirements:
+- **University of British Columbia, Digital Multimedia Lab**  
+    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://dml.ece.ubc.ca/)  
+    I designed and currently maintain the website for my Ph.D. research lab, built on the [Hugo Blox](https://hugoblox.com/) framework.  
+    I customized the framework to meet specific lab requirements:
     - Publications are categorized into finer-grained types (e.g., conference papers, journal articles), and the search function was rewritten to work within each category.
     - By adding new metadata to page elements, lab members can redirect to their own departmental web pages.
     - Embedded website statistics by modifying the universal footer.
-- [**Personal website**](https://people.ece.ubc.ca/~zjbthomas/): my personal website built with **HTML** and **jQuery**. *Refresh the page to see dynamically changing background colors!*
-- [**BC Liquor Store Explorer**](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas) [[demo](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)]: a course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
+- **Personal Website**  
+    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://people.ece.ubc.ca/~zjbthomas/)  
+    My personal website built with **HTML** and **jQuery**.  
+    *Refresh the page to see dynamically changing background colors!*
+- **BC Liquor Store Explorer**  
+    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas)  
+    A course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
 
