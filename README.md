@@ -59,7 +59,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 
 - **AI-generated Images Detection by Reconstructing Raw Images**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://link.springer.com/chapter/10.1007/978-3-031-94962-3_2)
-    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRecDetetor)  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRecDetector)  
     A method that detects AI-generated images by reconstructing Bayer patterns and comparing statistical differences between real and fake images (~98% accuracy).  
     Notably, this method requires no deep learning.
 
