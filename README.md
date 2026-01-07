@@ -55,6 +55,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 - **AI-generated Images Detection Trained with Raw Images Only**  
     ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRealOnlyDetector)  
+    ![VAE](https://img.shields.io/badge/VAE-9aa5b1?style=flat)  
     A **Variational Autoencoder (VAE)**-based approach trained solely on real/raw images for detecting AI-generated content (~94% accuracy).
 
 - **AI-generated Images Detection by Reconstructing Raw Images**  
@@ -102,9 +103,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 ### 🎞️ Video Compression
 - **Visual-Attention-Model-based HDR Video Compression**  
     ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)  
-    ![HEVC](https://img.shields.io/badge/HEVC-8aa399?style=flat)  
-    A visual-attention-driven approach for HDR video compression that incorporates saliency importance and human visual characteristics to improve the efficiency of the High Efficiency Video Coding (HEVC) standard.  
-    The method enhances HEVC performance on HDR content by adapting the Quantization Parameter (QP) calculation based on perceptual relevance.
+    ![HEVC](https://img.shields.io/badge/HEVC-(HM)-8aa399?style=flat)  
+    A visual-attention-driven HDR video compression method that incorporates perceptual saliency into the adaptive Quantization Parameter (QP) assignment of the **High Efficiency Video Coding (HEVC)** standard.
 
 ### 🎯 Serious Games
 - **BankPet**  
@@ -172,9 +172,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     *Refresh the page to see dynamically changing background colors!*
 
 - **BC Liquor Store Explorer**  
-    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
+    [![demo](https://img.shields.io/badge/demo-shiny-4a6fa5?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas)  
-    ![Shiny](https://img.shields.io/badge/Shiny-8aa399?style=flat)  
     A course project web app that allows users to explore BC Liquor products with filters such as price, type, and country.
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
