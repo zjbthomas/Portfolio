@@ -111,7 +111,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     [![report](https://img.shields.io/badge/report-8b1a1a?style=flat)](https://courses.ece.ubc.ca/518/previous/hit2017W/papers/WuRangZhang.pdf)  
     ![Android](https://img.shields.io/badge/Android-8fa3b8?style=flat&logo=android&logoColor=444)
     ![Arduino](https://img.shields.io/badge/Arduino-8aa399?style=flat&logo=arduino&logoColor=444)  
-    A serious game–based banking application featuring a virtual character 🐱 designed to help users develop better credit card and personal money management habits, validated through a user study.
+    A serious game–based banking application featuring a virtual character (🐱 *everyone loves cats!*) designed to help users develop better credit card and personal money management habits, validated through a user study.
 
 ## 🛠️ Toy Workshop (Scripts)
 
@@ -169,7 +169,7 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://people.ece.ubc.ca/~zjbthomas/)  
     ![jQuery](https://img.shields.io/badge/jQuery-8fa3b8?style=flat&logo=jquery&logoColor=444)  
     My personal website built with **HTML** and **jQuery**.  
-    *Refresh the page to see dynamically changing background colors!*
+    🌈 *Refresh the page to see dynamically changing background colors!*
 
 - **BC Liquor Store Explorer**  
     [![demo](https://img.shields.io/badge/demo-shiny-4a6fa5?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
