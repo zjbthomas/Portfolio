@@ -1,8 +1,10 @@
 # Portfolio
 
-*Junbin Zhang (Thomas)*
+*Junbin Zhang (Thomas), Ph.D.*  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/junbinzhang/)
 
-Welcome to my project showcase! This repository serves as a central hub for exploring the 🎮[**games**](#-toy-arcade-games), 🔬[**research projects**](#-research-corner), 🛠️[**scripts**](#%EF%B8%8F-toy-workshop-scripts), and 🌐[**websites**](#-website-creations) I have developed.
+Welcome to my project showcase!  
+This repository serves as a central hub for exploring the 🎮[**games**](#-toy-arcade-games), 🔬[**research projects**](#-research-corner), 🛠️[**scripts**](#%EF%B8%8F-toy-workshop-scripts), and 🌐[**websites**](#-website-creations) I have developed.
 
 ## 🎮 Toy Arcade (Games)
 
@@ -15,6 +17,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
 | **LinkWord** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776ab) |
 
 > ℹ️ If any of the demo links above do not work, please **[create an issue](../../issues)** so I can take a look.
+
+[⤴️ <u>*back to top*</u>](#portfolio)
 
 ## 🔬 Research Corner
 
@@ -113,6 +117,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     ![Arduino](https://img.shields.io/badge/Arduino-8aa399?style=flat&logo=arduino&logoColor=444)  
     A serious game–based banking application featuring a virtual character (🐱 *everyone loves cats!*) designed to help users develop better credit card and personal money management habits, validated through a user study.
 
+[⤴️ <u>*back to top*</u>](#portfolio)
+
 ## 🛠️ Toy Workshop (Scripts)
 
 ***Handy scripts I have crafted to make life easier.***
@@ -152,6 +158,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups.  
     **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
 
+[⤴️ <u>*back to top*</u>](#portfolio)
+
 ## 🌐 Website Creations
 
 ***Websites I have built or contributed to.***
@@ -178,6 +186,8 @@ Welcome to my project showcase! This repository serves as a central hub for expl
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
 
+[⤴️ <u>*back to top*</u>](#portfolio)
+
 ---
 
 ## 🧭 In the End: Why This Portfolio?
@@ -187,3 +197,5 @@ This repository serves two purposes:
 - It also functions as a centralized index of my GitHub projects for long-term organization and reference.
 
 As projects naturally grow across multiple repositories and organizations, GitHub currently offers limited support for presenting them as a coherent body of work. This portfolio serves as a developer-maintained overview that improves **organization and discoverability**, addressing a gap in how evolving personal GitHub project collections are presented.
+
+[⤴️ <u>*back to top*</u>](#portfolio)
