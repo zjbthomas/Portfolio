@@ -12,7 +12,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 | Game | Code | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - | - |
-| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web) | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/Socket.IO-(WebSocket)-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web)<br>- [**Docker** image](https://hub.docker.com/repository/docker/zjbthomas/dukechess-godot-web/general) available for easy deployment | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/Socket.IO-(WebSocket)-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d)<br>Containerization:<br>![Docker](https://img.shields.io/badge/Docker-8fa3b8?style=flat&logo=docker&logoColor=444) |
 | **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-(C++)-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
 | **LinkWord** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776ab) |
 
@@ -38,17 +38,24 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/ShallowDeepFakesLocalization)  
     ![UperNet](https://img.shields.io/badge/UperNet-9aa5b1?style=flat)
     ![Vision Mamba](https://img.shields.io/badge/Vision%20Mamba-9aa5b1?style=flat)
-    ![GNN](https://img.shields.io/badge/GNN-9aa5b1?style=flat)  
-    A deep learning solution that detects and localizes manipulated regions in both shallow- and deep-fake images.
+    ![GNN](https://img.shields.io/badge/GNN-9aa5b1?style=flat)
+    ![ONNX](https://img.shields.io/badge/ONNX-8fa3b8?style=flat&logo=onnx&logoColor=444)  
+    A deep learning method that detects and localizes manipulated regions in both shallow- and deep-fake images.
     - Built upon the **UperNet** semantic segmentation framework.
     - A journal extension leveraging **Vision Mamba** and **Graph Neural Networks** is currently under review and available on [arXiv](https://arxiv.org/abs/2601.02566).
+    - An **ONNX** model converted from the original Python implementation is provided [here](https://github.com/zjbthomas/ShallowDeepFakesLocalization/tree/journal/onnx), with custom functions implemented to support the conversion.
 
 #### *Frequency-domain Approaches*
 - **Frequency-based AI-generated Images Detection**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/abstract/document/10221905)
-    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/FreqAIDetector)  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/FreqAIDetector)
+    [![demo](https://img.shields.io/badge/demo-4f7f6a?style=flat)](https://zjbthomas.github.io/FreqAIDetector/)  
+    ![AWS](https://img.shields.io/badge/AWS-8aa399?style=flat&logo=amazonaws&logoColor=444)
+    ![ONNX](https://img.shields.io/badge/ONNX-8fa3b8?style=flat&logo=onnx&logoColor=444)  
     A deep learning model that detects images generated by Stable Diffusion models using frequency-domain artifacts (>99% accuracy).  
-    🏰 Disney images were used as a case study.
+    - 🏰 Disney images were used as a case study.
+    - A live demo is available [here](https://zjbthomas.github.io/FreqAIDetector/), with a backend running on **AWS** (API Gateway, [Lambda](https://github.com/zjbthomas/FreqAIDetector/tree/main/AWS/Lambda), and S3) and the model exported to **ONNX** for efficient inference.
+    
 
 - **Frequency-based AI-generated Images Attribution**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/abstract/document/10855423)
@@ -100,7 +107,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     ![Unity](https://img.shields.io/badge/Unity-9b8bc1?style=flat&logo=unity&logoColor=444)
     ![OpenVR](https://img.shields.io/badge/OpenVR-9b8bc1?style=flat)
     ![OpenGL](https://img.shields.io/badge/OpenGL-9b8bc1?style=flat&logo=opengl&logoColor=444)  
-    A novel subjective evaluation methodology for assessing the perceptual quality of foveated rendering in HMDs.
+    A novel subjective evaluation method for assessing the perceptual quality of foveated rendering in HMDs.
     - Developed an interactive voting mechanism using controllers in **Unity** to collect subjective user ratings.
     - Captured **eye-tracking** data via **OpenVR** and **OpenGL** and integrated it into the evaluation pipeline.
 
