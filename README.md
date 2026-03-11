@@ -66,7 +66,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 #### *Sensor-level Approaches*
 - **AI-generated Images Detection Trained with Raw Images Only**  
-    ![paper](https://img.shields.io/badge/paper%20(available%20soon)-8b1a1a?style=flat)
+    [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://ieeexplore.ieee.org/abstract/document/11386324/)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/BayerRealOnlyDetector)  
     ![VAE](https://img.shields.io/badge/VAE-9aa5b1?style=flat)  
     A **Variational Autoencoder (VAE)**-based approach trained solely on real/raw images for detecting AI-generated content (~94% accuracy).
