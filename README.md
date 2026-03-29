@@ -81,7 +81,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 - **Comparison of Android Static Taint Analyzers**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/LinaQiu/UBCBench)
-    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://resess.github.io/artifacts/StaticTaint/)  
+    [![results](https://img.shields.io/badge/results-4f7f6a?style=flat)](https://resess.github.io/artifacts/StaticTaint/)  
     ![Android](https://img.shields.io/badge/Android-8fa3b8?style=flat&logo=android&logoColor=444)  
     A comparative study of **Android** **static taint analysis** tools (*FlowDroid*, *Amandroid*, and *DroidSafe*), evaluating their effectiveness and limitations using standardized benchmarks.
     - We built [**UBCBench**](https://github.com/LinaQiu/UBCBench), a benchmark suite for evaluating Android static taint analysis tools.
