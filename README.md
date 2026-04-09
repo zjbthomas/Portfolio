@@ -1,10 +1,35 @@
 # Portfolio
 
-*Junbin Zhang (Thomas), Ph.D.*  
+<table width="100%">
+<tr>
+<td align="left">
+
+*Junbin Zhang (Thomas), Ph.D.*
+
+</td>
+<td align="right">
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/junbinzhang/)
+
+</td>
+</tr>
+</table>
 
 Welcome to my project showcase!  
 This repository serves as a central hub for exploring the 🎮[**games**](#-toy-arcade-games), 🔬[**research projects**](#-research-corner), 🛠️[**scripts**](#%EF%B8%8F-toy-workshop-scripts), and 🌐[**websites**](#-website-creations) I have developed.
+
+## 👀 What's New
+
+### 🤖 MCP Servers
+- **Steam Review Summary**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Steam-review-summary-MCP)  
+    An MCP server that analyzes and summarizes Steam game reviews, allowing LLMs to query review sentiment and generate concise summaries.
+
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
 
 ## 🎮 Toy Arcade (Games)
 
@@ -12,24 +37,45 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 | Game | Code | Demo | Description | Highlighted Features | Tech Stack |
 | - | - | - | - | - | - |
-| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web)<br>- [**Docker** image](https://hub.docker.com/repository/docker/zjbthomas/dukechess-godot-web/general) available for easy deployment | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/Socket.IO-(WebSocket)-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d)<br>Containerization:<br>![Docker](https://img.shields.io/badge/Docker-8fa3b8?style=flat&logo=docker&logoColor=444) |
-| **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-(C++)-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) |
+| **DukeChess** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/DukeChess) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](https://dexaint.itch.io/dukechess)    | ♟️ Digital adaptation of the chess-inspired board game *The Duke* | - AI opponent<br>- Cross-platform multiplayer support (desktop & web)<br>- [**Docker** image](https://hub.docker.com/repository/docker/zjbthomas/dukechess-godot-web/general) available for easy deployment | Desktop:<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white)<br>Front-end:<br>![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)<br>Back-end:<br>![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Socket.IO](https://img.shields.io/badge/Socket.IO-(WebSocket)-333333?style=flat&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)<br>Containerization:<br>![Docker](https://img.shields.io/badge/Docker-8fa3b8?style=flat&logo=docker&logoColor=444) |
+| **MemoryDungeon** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/MemoryDungeon) | [![play](https://img.shields.io/badge/play-4f7f6a?style=flat)](http://memorydungeon.junbinzhang.com) | 👾 Roguelike twist on the memory game  | - AI opponent<br>- Heroes with unique abilities<br>- Gacha mechanics | Front-end (desktop):<br>![Godot](https://img.shields.io/badge/Godot-478cbf?style=flat&logo=godot-engine&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-(C++)-333333?style=flat&logo=qt&logoColor=41cd52)<br>Back-end:<br>![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68a063) ![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis&logoColor=dc382d) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 | **LinkWord** | [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/LinkWord) |  | 🔤 Lightweight Chinese word-chain game |  | ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776ab) |
 
 > ℹ️ If any of the demo links above do not work, please **[create an issue](../../issues)** so I can take a look.
 
-[⤴️ <u>*back to top*</u>](#portfolio)
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
 
 ## 🔬 Research Corner
 
+<table width="100%">
+<tr>
+<td align="left">
+
 ***A selection of my most meaningful research projects.***
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ)
+</td>
+<td align="right">
 
-[![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)  
-[![MASc](https://img.shields.io/badge/MASc%20Thesis-Analyzing%20Android%20Taint%20Analysis%20Tools:%20FlowDroid,%20Amandroid,%20and%20DroidSafe-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0392613)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ)  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+• 🔍 [**Image Forensics**](#-image-forensics) • 📱 [**Mobile Security**](#-mobile-security) • 🖼️ [**Image Generation**](#-image-generation) • 🥽 [**Virtual Reality**](#-virtual-reality) • 🎞️ [**Video Compression**](#-video-compression) • 🎯 [**Serious Games**](#-serious-games) •
+
+</div>
 
 ### 🔍 Image Forensics
+
+[![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)  
+
 
 #### *Pixel-frequency Hybrid Approaches*
 - **Shallow- & Deep-fake Images Localization**  
@@ -78,6 +124,9 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     Notably, this method requires no deep learning.
 
 ### 📱 Mobile Security
+
+[![MASc](https://img.shields.io/badge/MASc%20Thesis-Analyzing%20Android%20Taint%20Analysis%20Tools:%20FlowDroid,%20Amandroid,%20and%20DroidSafe-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0392613)  
+
 - **Comparison of Android Static Taint Analyzers**  
     [![paper](https://img.shields.io/badge/paper-8b1a1a?style=flat)](https://www.computer.org/csdl/journal/ts/2022/10/09529015/1wB2FS12ld6)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/LinaQiu/UBCBench)
@@ -127,16 +176,15 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     ![Arduino](https://img.shields.io/badge/Arduino-8aa399?style=flat&logo=arduino&logoColor=444)  
     A serious game–based banking application featuring a virtual character (🐱 *everyone loves cats!*) designed to help users develop better credit card and personal money management habits, validated through a user study.
 
-[⤴️ <u>*back to top*</u>](#portfolio)
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
 
 ## 🛠️ Toy Workshop (Scripts)
 
 ***Handy scripts I have crafted to make life easier.***
-
-### 🤖 MCP Servers
-- **Steam Review Summary**  
-    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Steam-review-summary-MCP)  
-    An MCP server that analyzes and summarizes Steam game reviews, allowing LLMs to query review sentiment and generate concise summaries.
 
 ### 🐵 Tampermonkey Userscripts (*JavaScript*) 
 - **Steam Wishlist Language Highlighter**  
@@ -173,7 +221,11 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     I contributed to this Google Chrome extension that supports webpage clipping for popular note-taking apps (e.g., OneNote, Notion) by adding support for OneNote note groups.  
     **The [pull request](https://github.com/webclipper/web-clipper/pull/950) was merged by the original author.**
 
-[⤴️ <u>*back to top*</u>](#portfolio)
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
 
 ## 🌐 Website Creations
 
@@ -201,7 +253,11 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     - **Highlighted features**: interactive search and filtering, data visualization with Shiny.
     - **Tech Stack**: R, Shiny
 
-[⤴️ <u>*back to top*</u>](#portfolio)
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
 
 ---
 
@@ -213,4 +269,9 @@ This repository serves two purposes:
 
 As projects naturally grow across multiple repositories and organizations, GitHub currently offers limited support for presenting them as a coherent body of work. This portfolio serves as a developer-maintained overview that improves **organization and discoverability**, addressing a gap in how evolving personal GitHub project collections are presented.
 
-[⤴️ <u>*back to top*</u>](#portfolio)
+<div align="right">
+
+[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+
+</div>
+
