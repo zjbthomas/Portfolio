@@ -1,19 +1,8 @@
 # Portfolio
 
-<table width="100%">
-<tr>
-<td align="left">
-
-*Junbin Zhang (Thomas), Ph.D.*
-
-</td>
-<td align="right">
-
+**Junbin Zhang (Thomas), Ph.D.**  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/junbinzhang/)
-
-</td>
-</tr>
-</table>
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ) 
 
 Welcome to my project showcase!  
 This repository serves as a central hub for exploring the 🎮[**games**](#-toy-arcade-games), 🔬[**research projects**](#-research-corner), 🛠️[**scripts**](#%EF%B8%8F-toy-workshop-scripts), and 🌐[**websites**](#-website-creations) I have developed.
@@ -27,7 +16,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
@@ -45,37 +34,23 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
 ## 🔬 Research Corner
 
-<table width="100%">
-<tr>
-<td align="left">
-
 ***A selection of my most meaningful research projects.***
-
-</td>
-<td align="right">
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat)](https://scholar.google.ca/citations?user=KJKRoyEAAAAJ)  
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-• 🔍 [**Image Forensics**](#-image-forensics) • 📱 [**Mobile Security**](#-mobile-security) • 🖼️ [**Image Generation**](#-image-generation) • 🥽 [**Virtual Reality**](#-virtual-reality) • 🎞️ [**Video Compression**](#-video-compression) • 🎯 [**Serious Games**](#-serious-games) •
+• 🔍 [**Image Forensics**](#-image-forensics) • 📱 [**Mobile Security**](#-mobile-security) • 🖼️ [**Image Generation**](#-image-generation) •<br>• 🥽 [**Virtual Reality**](#-virtual-reality) • 🎞️ [**Video Compression**](#-video-compression) • 🎯 [**Serious Games**](#-serious-games) •
 
 </div>
 
 ### 🔍 Image Forensics
 
 [![PhD](https://img.shields.io/badge/PhD%20Thesis-Detection,%20Attribution,%20and%20Localization%20of%20Manipulated%20Images-8b1a1a?style=flat)](https://dx.doi.org/10.14288/1.0450146)  
-
 
 #### *Pixel-frequency Hybrid Approaches*
 - **Shallow- & Deep-fake Images Localization**  
@@ -178,7 +153,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
@@ -223,7 +198,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
@@ -255,7 +230,7 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
@@ -271,7 +246,7 @@ As projects naturally grow across multiple repositories and organizations, GitHu
 
 <div align="right">
 
-[![↑ top](https://img.shields.io/badge/%E2%86%91%20top-6c757d?style=flat)](#portfolio)
+[![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
 
 </div>
 
