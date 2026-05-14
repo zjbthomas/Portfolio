@@ -14,6 +14,11 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/Steam-review-summary-MCP)  
     An MCP server that analyzes and summarizes Steam game reviews, allowing LLMs to query review sentiment and generate concise summaries.
 
+### 🧩 Google Chrome Extensions
+- **Game Event Tracker**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/GameEventTracker)  
+    A Google Chrome extension project for tracking in-game events and keeping schedules visible while browsing.
+
 <div align="right">
 
 [![back to top](https://img.shields.io/badge/back%20to%20top-333333?style=flat)](#portfolio)
