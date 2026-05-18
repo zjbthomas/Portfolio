@@ -16,7 +16,8 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
 
 ### 🧩 Google Chrome Extensions
 - **Game Event Tracker**  
-    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/GameEventTracker)  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/GameEventTracker)
+    [![install](https://img.shields.io/badge/install-4f7f6a?style=flat&logoColor=white)](https://chromewebstore.google.com/detail/game-event-tracker/pdjloblddoadlbcemkcnafgagmkdhepl)  
     A Google Chrome extension project for tracking in-game events and keeping schedules visible while browsing.
 
 <div align="right">
