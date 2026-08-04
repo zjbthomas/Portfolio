@@ -227,6 +227,11 @@ This repository serves as a central hub for exploring the 🎮[**games**](#-toy-
     My personal website built with **HTML** and **jQuery**.  
     🌈 *Refresh the page to see dynamically changing background colors!*
 
+- **Arknights Integrated Strategies Tracker**  
+    [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/zjbthomas/AIST)
+    [![live](https://img.shields.io/badge/live-4f7f6a?style=flat)](https://zjbthomas.github.io/AIST/)  
+    A **local-first** timeline tracking and statistics tool for **Arknights Integrated Strategies**, requiring **no account** or **backend server**.
+
 - **BC Liquor Store Explorer**  
     [![demo](https://img.shields.io/badge/demo-shiny-4a6fa5?style=flat)](https://junbinzhang.shinyapps.io/junbinzhang-bcl/)
     [![code](https://img.shields.io/badge/code-333333?style=flat)](https://github.com/STAT545-UBC-hw-2018-19/hw08-zjbthomas)  
